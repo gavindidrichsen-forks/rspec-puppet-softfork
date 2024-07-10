@@ -32,7 +32,7 @@ group :test do
   gem 'rake', require: false
 
   gem 'rspec', '~> 3.0', require: false
-  gem 'rubocop', '~> 1.64.0', require: false
+  gem 'rubocop', '~> 1.65.0', require: false
   gem 'rubocop-performance', '~> 1.16', require: false
   gem 'rubocop-rspec', '~> 3.0', require: false
   gem 'simplecov', require: false
